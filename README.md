@@ -130,7 +130,7 @@ Inside `index.js` add the code necessary to implement the following _endpoints_:
   - return the newly updated _user document_.
 
 ## Stretch Problems
-
+ 
 To work on the stretch problems you'll need to enable the `cors` middleware. Follow these steps:
 
 - add the `cors` npm module: `npm i cors`.
